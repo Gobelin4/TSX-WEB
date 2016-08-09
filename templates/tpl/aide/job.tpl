@@ -15,14 +15,14 @@
 									</div>
 								</div>
 								<div class="panel-body">
-									<p id="t1.1"><span class="wiki-bulle wiki-blue">Sur notre forum :<br />
+									<p id="t1.1"><span class="wiki-bulle wiki-blue">1</span>Sur notre forum :<br />
+									</p>
+									<br />
+									<p id="t1.2"><span class="wiki-bulle wiki-green">2</span>Ou alors, directement IG (en jeux) :<br />
 									</span></p>
 									<br />
-									<p id="t1.2"><span class="wiki-bulle wiki-green">Ou alors, directement IG (en jeux) :<br />
-									</span></p>
-									<br />
-									<p id="t1.3"><span class="wiki-bulle wiki-orange">Une fois que vous aurez pris vos marque, vous pouvez également devenir chef de job<br />
-									</span></p>
+									<p id="t1.3"><span class="wiki-bulle wiki-orange">3</span>Une fois que vous aurez pris vos marque, vous pouvez également devenir chef de job<br />
+									</p>
 								</div>
 							</div>
 						</div>
